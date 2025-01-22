@@ -14,3 +14,8 @@ This notebook uses
 * Expand the pattern to all user to define the system prompt
 * Expant to use RAG for answers as well.
 * Improve performance...
+
+## Limitations
+* Requires Snowflake.  It might be best to use WESST region due to LLM limits.
+* Only developer level testing.
+  
